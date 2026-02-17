@@ -1,0 +1,7 @@
+{
+  "name": "AEC Photogrammetry Cloud",
+  "description": "Professional tool for converting 2D site photos into accurate 3D point cloud maps for AEC industry diagnostics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
